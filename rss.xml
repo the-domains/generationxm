@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Music and more - GenerationXM]]></title>
         <description><![CDATA[Music and more - GenerationXM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/generationxm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 16:13:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 16:56:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/generationxm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lizzo is the hip-hop artist you need for 2016]]></title>
+            <description><![CDATA[<article><h1>Lizzo is the hip-hop artist you need for 2016</h1><p>Despite what Floridians might tell you, there are many great things about Minneapolis and the Twin Cities area: It isn't "all snow, all the time." The parties - like the Cocktailian at The Depot - are among the best around. The Walker Art Center always has something inspiring on (including an exhibition of British humor). Hell, even in winter it's worth going there just for the St. Paul Carnival. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0def9f21129951a5398875c402ea129fc1974ec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/generationxm/lizzo-is-the-hip-hop-artist-you-need-for-2016/index.html</link>
+            <guid isPermaLink="false">6de23734-f2d4-4013-8e54-e1b82e60ed69</guid>
+            <pubDate>Sun, 27 Dec 2015 16:56:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Generation XM?]]></title>
-            <description><![CDATA[<h1>What is Generation XM?</h1>]]></description>
-            <link>undefinedwhat-is-generation-xm/index.html</link>
+            <description><![CDATA[<article><h1>What is Generation XM?</h1><p>Like new music, and enjoy a wide array of genres? That's Generation XM.</p></article>]]></description>
+            <link>https://thegrid.ai/generationxm/what-is-generation-xm/index.html</link>
             <guid isPermaLink="false">d3bcc3d1-8ae0-4dab-a07a-016338d38043</guid>
             <pubDate>Sun, 27 Dec 2015 16:13:42 GMT</pubDate>
         </item>
