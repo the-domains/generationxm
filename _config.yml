@@ -1,20 +1,4 @@
-name: GenerationXM
-favicon: null
-layout_spectrum: 0.10201742593199015
 typography_spectrum: 0.5440342635847628
-title: Music and more - GenerationXM
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#14100f'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5991831459105015
   saturation: 0.322276666527614
   rhythmicContrast: 0.9100819092709571
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.10201742593199015
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: GenerationXM
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: GenerationXM
 purpose: []
